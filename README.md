@@ -1,6 +1,10 @@
 # securit-_web
-This repository contains an implemented program for an authentification webpage in HTML and PHP. 
+This repository contains an implemented program for an authentification webpage. 
 The goal is to have a secure authentification process. 
+
+## programming languages:
+- php
+- html
 
 ## prerequisite
 In order to execute this program, you should have :
