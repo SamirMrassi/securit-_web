@@ -45,10 +45,10 @@
 			    			echo "<p>Merci pour votre inscription! Vous êtes maintenant notre client !</p>";
 			    			echo "<a href='connexion.php' > Connectez-vous!</a>";
 			    		}else{
-			    			echo "<p style='color:red'>Le mot de passe doit contenir des lettres, des chiffres et des caractères spéciaux!</p>";
+			    			echo "<p style='color:red'>Le mot de passe doit contenir des lettres, des chiffres et des caractères spéciaux, et il doit se composer de minimum 5 caractères!</p>";
 			    		}
 			    	}else{
-			    		echo "<p style='color:red'>Le mot de passe doit se composer de minimum 5 caractères! </p>";
+			    		echo "<p style='color:red'>Le mot de passe doit contenir des lettres, des chiffres et des caractères spéciaux, et il doit se composer de minimum 5 caractères!</p>";
 			    	}
 			    }else{
 			     	echo "<p style='color:red'>le nom d'utilisateur existe déjà!</p>"; 
